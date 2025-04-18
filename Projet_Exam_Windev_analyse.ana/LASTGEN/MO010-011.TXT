@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Facture		TAR	146	nouvelle taille enregistrement : 146
+Facture	numero_facture	CNW	Chaîne$Entier sur 4 octets	la rubrique numero_facture a pour nouveau type Chaîne

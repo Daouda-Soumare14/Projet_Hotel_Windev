@@ -1,0 +1,18 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Chambre		TAR	394	nouvelle taille enregistrement : 394
+Chambre	IDReservations	RUB+		IDReservations est une nouvelle clé
+Reservations	IDClients	RUB+		IDClients est une nouvelle clé
+Reservations	id_client	RUB-		la clé id_client est supprimée
+Reservations	id_chambre	RUB-		la clé id_chambre est supprimée
+Paiements		TAR	146	nouvelle taille enregistrement : 146
+Paiements	IDFacture	RUB+		IDFacture est une nouvelle clé
+Paiements	id_reservation	RUB-		la clé id_reservation est supprimée
+Facture		TAR	103	nouvelle taille enregistrement : 103
+Facture	IDReservations	RUB+		IDReservations est une nouvelle clé
+Facture	IDDetail_Facture	RUB+		IDDetail_Facture est une nouvelle clé
+Facture	id_reservation	RUB-		la clé id_reservation est supprimée
+Contrainte_Clients_Reservations		NWL	Clients (IDClients) et Reservations (IDClients)	Nouvelle liaison entre les fichiers Clients (IDClients) et Reservations (IDClients)
+Contrainte_Reservations_Chambre		NWL	Reservations (IDReservations) et Chambre (IDReservations)	Nouvelle liaison entre les fichiers Reservations (IDReservations) et Chambre (IDReservations)
+Contrainte_Reservations_Facture		NWL	Reservations (IDReservations) et Facture (IDReservations)	Nouvelle liaison entre les fichiers Reservations (IDReservations) et Facture (IDReservations)
+Contrainte_Detail_Facture_Facture		NWL	Detail_Facture (IDDetail_Facture) et Facture (IDDetail_Facture)	Nouvelle liaison entre les fichiers Detail_Facture (IDDetail_Facture) et Facture (IDDetail_Facture)
+Contrainte_Facture_Paiements		NWL	Facture (IDFacture) et Paiements (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et Paiements (IDFacture)

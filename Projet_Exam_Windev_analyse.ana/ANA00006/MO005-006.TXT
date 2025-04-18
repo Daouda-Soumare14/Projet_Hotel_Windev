@@ -1,0 +1,8 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Facture		TAR	95	nouvelle taille enregistrement : 95
+Facture	IDDetail_Facture	RUB-		la clé IDDetail_Facture est supprimée
+Detail_Facture		TAR	100	nouvelle taille enregistrement : 100
+Detail_Facture	IDFacture	RUB+		IDFacture est une nouvelle clé
+Detail_Facture	id_facture	RUB-		la clé id_facture est supprimée
+Contrainte_Facture_Detail_Facture		NWL	Facture (IDFacture) et Detail_Facture (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et Detail_Facture (IDFacture)
+Contrainte_Detail_Facture_Facture		DEL	Detail_Facture (IDDetail_Facture) et Facture (IDDetail_Facture)	Liaison supprimée entre les fichiers Detail_Facture (IDDetail_Facture) et Facture (IDDetail_Facture)

@@ -1,0 +1,7 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Chambre		TAR	386	nouvelle taille enregistrement : 386
+Chambre	IDReservations	RUB-		la clé IDReservations est supprimée
+Reservations		TAR	123	nouvelle taille enregistrement : 123
+Reservations	IDChambre	RUB+		IDChambre est une nouvelle clé
+Contrainte_Chambre_Reservations		NWL	Chambre (IDChambre) et Reservations (IDChambre)	Nouvelle liaison entre les fichiers Chambre (IDChambre) et Reservations (IDChambre)
+Contrainte_Reservations_Chambre		DEL	Reservations (IDReservations) et Chambre (IDReservations)	Liaison supprimée entre les fichiers Reservations (IDReservations) et Chambre (IDReservations)

@@ -1,0 +1,6 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Chambre		NFI		nouveau fichier
+Reservations		NFI		nouveau fichier
+Paiements		NFI		nouveau fichier
+Facture		NFI		nouveau fichier
+Detail_Facture		NFI		nouveau fichier

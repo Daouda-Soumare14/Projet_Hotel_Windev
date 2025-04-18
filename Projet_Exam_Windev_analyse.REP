@@ -1,0 +1,9 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=6	;Analysis GUID
+LOCALIZATION_UTF8=8C1D40861BBE49E588EF769ECAF73F74	Clients	C:\Users\Rachid\Desktop\windev\Projet_Exam_Windev\Exe\Clients.fic
+LOCALIZATION_UTF8=C5C12DE32B264E879FECFB339A300E70	Reservations	C:\Users\Rachid\Desktop\windev\Projet_Exam_Windev\Exe\Reservations.fic
+LOCALIZATION_UTF8=D0F2921FC54D4A62854F9F5398F70BDB	Chambre	C:\Users\Rachid\Desktop\windev\Projet_Exam_Windev\Exe\Chambre.fic
+LOCALIZATION_UTF8=5084004FE4A7499F8AED704782B88A2A	Facture	C:\Users\Rachid\Desktop\windev\Projet_Exam_Windev\Exe\Facture.fic
+LOCALIZATION_UTF8=E6F27A138F1A4AB4B774C0859B7B4EA6	Detail_Facture	C:\Users\Rachid\Desktop\windev\Projet_Exam_Windev\Exe\Detail_Facture.fic
+LOCALIZATION_UTF8=C9A8EFF07048495E808BF16DBD23B879	Paiements	C:\Users\Rachid\Desktop\windev\Projet_Exam_Windev\Exe\Paiements.fic

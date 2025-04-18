@@ -1,0 +1,4 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Reservations		TAR	115	nouvelle taille enregistrement : 115
+Reservations	heure_debut	RUB+		heure_debut est une nouvelle rubrique
+Reservations	heure_fin	RUB+		heure_fin est une nouvelle rubrique

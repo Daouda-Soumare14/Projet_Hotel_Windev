@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Chambre		TAR	394	nouvelle taille enregistrement : 394
+Chambre	image	RUB+		image est une nouvelle rubrique
