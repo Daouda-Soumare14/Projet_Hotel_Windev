@@ -1,3 +1,3 @@
-//MO011-012.TXT ANA00011 TO ANA00012
-Paiements		TAR	95	nouvelle taille enregistrement : 95
-Paiements	description	RUB-		la rubrique description est supprimée
+//MO012-013.TXT ANA00012 TO ANA00013
+Paiements		TAR	146	nouvelle taille enregistrement : 146
+Paiements	statut_paiement	RUB+		statut_paiement est une nouvelle rubrique
