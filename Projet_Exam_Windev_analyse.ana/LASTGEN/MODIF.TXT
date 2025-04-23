@@ -1,3 +1,2 @@
-//MO012-013.TXT ANA00012 TO ANA00013
-Paiements		TAR	146	nouvelle taille enregistrement : 146
-Paiements	statut_paiement	RUB+		statut_paiement est une nouvelle rubrique
+//MO013-014.TXT ANA00013 TO ANA00014
+Detail_Facture	nombre_de_jours	NNR	quantite	ATTENTION : la rubrique quantite a pour nouveau nom nombre_de_jours
